@@ -52,7 +52,7 @@ const FAQ= () => {
   return (
     <div className=' min-h-screen flex flex-col justify-evenly items-center relative top-20 mb-20'>
       <h5 className=' font-semibold mt-10'>Commonly Asked Questions</h5>
-      <h1 className=' font-semibold text-3xl lg:text-6xl'> Frequently Asked Questions</h1>
+      <h1 className=' font-semibold text-3xl lg:text-6xl text-center'> Frequently Asked Questions</h1>
       <div className=' flex text-xl  flex-wrap'>
         <div className="w-full max-w-md p-2 mx-auto bg-white rounded-2xl">
         {faqs.map((faq, index) => (

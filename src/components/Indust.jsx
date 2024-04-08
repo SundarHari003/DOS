@@ -4,7 +4,7 @@ const Indust = () => {
   return (
     <div className=' relative top-20'>
         <div className=' bg-green-400 min-h-screen flex justify-around items-center flex-col rounded-3xl'>
-            <h1 className=' text-4xl text-white font-semibold'>Industrial Partners</h1>
+            <h1 className=' text-4xl text-white font-semibold text-center'>Industrial Partners</h1>
             <p className=' w-3/4 text-white text-2xl text-center'>Our Institutional Partnerships extend beyond mere cooperation; they represent a shared commitment to excellence, integrity, and social responsibility. Together, we create empowering individuals and communities to thrive.
 </p>
             <div className=' flex w-full justify-center items-center h-full gap-5'>
